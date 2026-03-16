@@ -1,0 +1,6 @@
+URL,Score,Risk Level,Content-Security-Policy,X-Frame-Options,Strict-Transport-Security,X-Content-Type-Options,Referrer-Policy,Permissions-Policy,Timestamp
+https://google.com,1/6,HIGH,MISSING,FOUND,MISSING,MISSING,MISSING,MISSING,2026-03-16 18:28:46
+https://github.com,5/6,LOW,FOUND,FOUND,FOUND,FOUND,FOUND,MISSING,2026-03-16 18:28:46
+https://facebook.com,5/6,LOW,FOUND,FOUND,FOUND,FOUND,MISSING,FOUND,2026-03-16 18:28:47
+https://bankofamerica.com,3/6,MEDIUM,FOUND,FOUND,FOUND,MISSING,MISSING,MISSING,2026-03-16 18:28:48
+https://reddit.com,4/6,MEDIUM,FOUND,FOUND,FOUND,FOUND,MISSING,MISSING,2026-03-16 18:28:49
