@@ -1,6 +1,6 @@
 # Security Header Scanner
 
-A Python tool that audits websites for missing HTTP security headers based on OWASP best practices.
+A Python tool that audits websites for missing HTTP security headers based on OWASP practices.
 
 ## What It Does
 
